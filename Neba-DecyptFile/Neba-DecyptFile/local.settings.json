@@ -1,0 +1,21 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=false",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SecretId": "https://neba-dev-vault.vault.azure.net/secrets/PGPsecretprivatekey/aa55c888f34c44faa5df6a54089b2750",
+    "Phrase": "https://neba-dev-vault.vault.azure.net/secrets/SecretPhrase/5d147223303347c887961c7fd2842902",
+    "KeyVaultRef_Active": "0",
+    "StorageAccountConnection": "DefaultEndpointsProtocol=https;AccountName=gdrivefilesys;AccountKey=pYYoctrqDnoMJ3PNyORuTNT8HLdaTDgnCXk/PULuknEnbf4Wiu8vL1R99qqg02jnYmMyDFigEhJ/+o+/29JTUA==;EndpointSuffix=core.windows.net",
+    "ContainerName": "gdrive",
+    "Directory_one": "system",
+    "Directory_two": "import",
+    "Directory_three": "NIMS",
+
+    "InputFolder": "In",
+    "OutputFolder": "processed",
+    "SourceFileName": "CID - Compilation Information Database_1848.zip.gpg",
+    "TargetFileName": "CID - Compilation Information Database_1848.zip"
+
+  }
+}
